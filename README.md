@@ -79,9 +79,9 @@ Assalamu Alaikum , I am Shahin Alam, a dedicated and enthusiastic React front-en
 
 
 ## Github Stats 
-<div align="center" width="full">
+
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahin992&theme=cobalt2&mode=weekly)](https://git.io/streak-stats)
-</div>
+
 
 
 <br/>  
