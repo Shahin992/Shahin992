@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.ibb.co/4Ph64Jf/Shahin-Banner.jpg" align="center" style="width: 100%" />
+<img src="https://i.ibb.co/SVNNSQK/Banner-photo-github.jpg" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Shahin Alam </div>  
