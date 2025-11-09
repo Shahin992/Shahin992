@@ -11,7 +11,7 @@ Assalamu Alaikum , I am Shahin Alam, a dedicated and enthusiastic React front-en
 - 💬 Ask me about **React**
 - 📫 How to reach me **shahinkhan5979@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1xAlwXjc95pQPIKaJoEejkJrhb7nqmBg2/view?usp=sharing](https://drive.google.com/file/d/1xAlwXjc95pQPIKaJoEejkJrhb7nqmBg2/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1xAlwXjc95pQPIKaJoEejkJrhb7nqmBg2/view?usp=sharing](https://drive.google.com/file/d/1tMAtxspJqwQ7_TAjp-s1cIm-4o6pbxIf/view?usp=sharing)
 
 
 <br/>
