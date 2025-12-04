@@ -3,14 +3,29 @@
 </div>  
 
 ### <div align="center">I'm Shahin Alam </div>  
-Assalamu Alaikum , I am Shahin Alam, a dedicated and enthusiastic React front-end developer with knowledge of full-stack development. Over the past six months, I have been honing my skills in web development, specializing in React.js for front-end development. I also possess knowledge of Express.js for server-side development and MongoDB for working with databases. This allows me to tackle end-to-end development tasks and build robust, scalable web applications.  
+Assalamu Alaikum,
+I am Shahin Alam, a dedicated and enthusiastic Software Developer with hands-on experience in full-stack web development. Over the past two years, I have been sharpening my expertise in building modern, scalable, and efficient web applications.
+
+I specialize in React.js for front-end development and have solid experience working with Node.js, Express.js, and MongoDB for back-end and database management. This full-stack capability enables me to handle end-to-end development processes with confidence and deliver robust, user-focused solutions.
+
+Technical Skills:
+
+Languages: JavaScript, TypeScript
+
+Frontend: React.js, Next.js, Redux, Redux Toolkit, RTK Query, Material-UI, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database & ORM: MongoDB, Mongoose
+
+Tools & Others: GitHub, RESTful APIs
   
 <br/>
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Nest.Js**
 - 📫 How to reach me **shahinkhan5979@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1xAlwXjc95pQPIKaJoEejkJrhb7nqmBg2/view?usp=sharing](https://drive.google.com/file/d/1tMAtxspJqwQ7_TAjp-s1cIm-4o6pbxIf/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1dJUZZYJZJ5U7yRsC6unFbiEmFH3IDRHK/view?usp=sharing](https://drive.google.com/file/d/1dJUZZYJZJ5U7yRsC6unFbiEmFH3IDRHK/view?usp=sharing)
 
 
 <br/>
