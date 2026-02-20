@@ -95,7 +95,6 @@ Tools & Others: GitHub, RESTful APIs
 
 ## Github Stats 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2Fshahin992&theme=dark" alt="GitHub Streak" /></a>
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahin992&theme=cobalt2&mode=weekly)](https://git.io/streak-stats)
 
 <br/>  
