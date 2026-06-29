@@ -26,7 +26,7 @@ Tools & Others: GitHub, RESTful APIs
 - 💬 Ask me about **Nest.Js**
 - 📫 How to reach me **shahinkhan5979@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1dJUZZYJZJ5U7yRsC6unFbiEmFH3IDRHK/view?usp=sharing](https://drive.google.com/file/d/1dJUZZYJZJ5U7yRsC6unFbiEmFH3IDRHK/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1nRI0g4t2ylwuCaigvxiXQ0EKIv9FbCL0/view?usp=sharing](https://drive.google.com/file/d/1nRI0g4t2ylwuCaigvxiXQ0EKIv9FbCL0/view?usp=sharing)
 
 
 <br/>
